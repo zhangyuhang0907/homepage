@@ -36,3 +36,9 @@
     color: #fff;
     cursor: pointer;
   }
+     body.dark {
+    --bg: #1d1d1f;
+    --fg: #f5f5f7;
+    --card: #2c2c2e;
+    --accent: #4f8cff;
+  } 
